@@ -23,7 +23,7 @@ it under the terms of the one of three licenses as you choose:
 
 
 #ifdef ANDROID
-#include <libraw_swab.h>
+#include <swab.h>
 #endif
 
 #include <math.h>
